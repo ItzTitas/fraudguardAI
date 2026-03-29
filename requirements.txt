@@ -1,0 +1,10 @@
+streamlit
+pandas
+joblib
+pdfplumber
+langchain
+langchain-groq
+langchain-huggingface
+faiss-cpu
+python-dotenv
+sentence-transformers

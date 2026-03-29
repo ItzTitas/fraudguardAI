@@ -1,0 +1,15 @@
+.env
+*.csv
+__pycache__/
+*.txt
+*.ipynb
+debug_*.py
+scan_pdf_words.py
+dump_pdf_text.py
+groq_test.txt
+ultimate_*.txt
+final_*.txt
+test_results.txt
+!VIVA_PREP_GUIDE.txt
+!start.txt
+!requirements.txt
