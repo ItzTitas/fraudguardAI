@@ -3,8 +3,11 @@ pandas
 joblib
 pdfplumber
 langchain
+langchain-community
 langchain-groq
 langchain-huggingface
 faiss-cpu
 python-dotenv
 sentence-transformers
+torch
+torchvision
